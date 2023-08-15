@@ -1,1 +1,1 @@
-:whale: Dockerfiles for [qb-tracker-updater](https://hub.docker.com/r/80x86/qb-tracker-update-bulk)
+:whale: Dockerfiles for [qb-tracker-updater](https://nanodm.net/post/pt/how-to-modify-tracker-in-batches-under-qbittorrent)
